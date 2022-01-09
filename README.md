@@ -9,12 +9,6 @@
 
 -----
 
-### FILES
-
-shape_predictor_68_face_landmarks.dat - used to detect facial landmarks
-
------
-
 ### FEATURES
 
 - Detecting the Real-Time Frame(image) using opencv-python library
